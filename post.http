@@ -1,0 +1,7 @@
+POST http://localhost:9808/create-short-url
+Content-Type: application/json
+
+{
+    "long_url": "https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator",
+    "user_id" : "e0dba740"
+}
